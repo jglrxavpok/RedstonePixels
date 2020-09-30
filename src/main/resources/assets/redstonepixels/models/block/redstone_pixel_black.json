@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "redstonepixels:block/redstone_pixel_black"
+  }
+}
